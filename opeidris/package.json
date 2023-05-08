@@ -4,7 +4,7 @@
 	"description": "my personal site",
 	"main": "index.js",
 	"dependencies": {
-		"tailwindcss": "^1.2.0"
+		"tailwindcss": "^1.9.6"
 	},
 	"devDependencies": {},
 	"scripts": {
